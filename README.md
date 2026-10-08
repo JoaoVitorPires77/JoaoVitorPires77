@@ -164,14 +164,20 @@ Sistema de gerenciamento de biblioteca desenvolvido em Java para organizar livro
 </td>
 <td width="50%" valign="top">
 
-### 🏪 Sistema de Loja
+### 🌱 Impacta — Gestão de Voluntariado
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
 
-Aplicação acadêmica desenvolvida em Java para praticar o gerenciamento de produtos e a organização de sistemas.
+Sistema desenvolvido em Java para organizar ações de voluntariado, com foco no gerenciamento de voluntários e atividades.
 
-<a href="https://github.com/JoaoVitorPires77">
-<img src="https://img.shields.io/badge/VIEW_REPOSITORY-0B1220?style=for-the-badge&logo=github&logoColor=67E8F9" alt="View repository"/>
+**Funcionalidades:**
+- Cadastro e gerenciamento de voluntários.
+- Criação e organização de atividades.
+- Controle de inscrições e vagas.
+- Organização de pontuações.
+
+<a href="https://github.com/JoaoVitorPires77/Impacta">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-0B1220?style=for-the-badge&logo=github&logoColor=67E8F9" alt="View Impacta repository"/>
 </a>
 
 </td>
