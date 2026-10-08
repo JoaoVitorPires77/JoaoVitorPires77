@@ -9,12 +9,11 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=%3E+Initializing+developer+environment...;%3E+Java+%7C+Python+%7C+MySQL;%3E+Building+solutions%2C+one+line+at+a+time." alt="Developer typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=%3E+Initializing+developer+environment...;%3E+Java+%7C+Python+%7C+JavaScript;%3E+Building+solutions%2C+one+line+at+a+time." alt="Developer typing animation"/>
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/STATUS-LEARNING-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Learning status"/>
-
 <img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20DEVELOPMENT-7C3AED?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Software development"/>
 
 <br/><br/>
@@ -45,9 +44,9 @@ Olá! Sou **João Vitor Gonçalves Pires Leite**, estudante de tecnologia intere
 
 Atualmente, curso **Sistemas de Informação na UNIFACISA** e **Análise e Desenvolvimento de Sistemas (ADS) na Universidade Federal do Cariri (UFCA)**.
 
-Tenho desenvolvido meus conhecimentos em Java, Python, MySQL, HTML e CSS por meio dos estudos e de projetos acadêmicos, explorando desde a lógica de programação até o desenvolvimento de aplicações integradas a bancos de dados.
+Tenho desenvolvido meus conhecimentos em Java, Python, JavaScript, HTML, CSS e MySQL por meio dos estudos e de projetos práticos, buscando aprimorar minhas habilidades e construir aplicações cada vez mais completas.
 
-Meu objetivo é continuar evoluindo tecnicamente, construir projetos cada vez mais completos e conquistar oportunidades para aplicar meus conhecimentos na prática.
+Meu objetivo é continuar evoluindo tecnicamente, colaborar com projetos e conquistar oportunidades para aplicar meus conhecimentos na prática.
 
 ```text
 ┌─────────────[ USER PROFILE ]─────────────────────────────────┐
@@ -76,7 +75,7 @@ Meu objetivo é continuar evoluindo tecnicamente, construir projetos cada vez ma
 
 **PROGRAMMING LANGUAGES**
 
-<img src="https://skillicons.dev/icons?i=java,python&theme=dark" alt="Java and Python"/>
+<img src="https://skillicons.dev/icons?i=java,python,javascript&theme=dark" alt="Java, Python and JavaScript"/>
 
 <br/><br/>
 
@@ -104,6 +103,26 @@ Meu objetivo é continuar evoluindo tecnicamente, construir projetos cada vez ma
 <tr>
 <td width="50%" valign="top">
 
+### 🍕 Pizzaria Unifacisa
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"/>
+
+Backend desenvolvido em Java com Spring Boot para o gerenciamento de uma pizzaria, utilizando arquitetura em camadas.
+
+**Funcionalidades:**
+- Gerenciamento de clientes.
+- Controle do cardápio de pizzas.
+- Gerenciamento de pedidos.
+- Controle de cupons de desconto.
+
+<a href="https://github.com/JoaoVitorPires77/Pizzaria-Unifacisa">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-0B1220?style=for-the-badge&logo=github&logoColor=67E8F9" alt="View Pizzaria repository"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
 ### 🏥 Clínica San Pietro
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
@@ -115,10 +134,16 @@ Sistema de gerenciamento de clínica desenvolvido em Python com integração a u
 - Cadastro e atualização de usuários.
 - Cadastro de médicos.
 - Agendamento de consultas.
+- Persistência de dados no banco.
 
-[**Ver projeto →**](https://github.com/JoaoVitorPires77)
+<a href="https://github.com/JoaoVitorPires77">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-0B1220?style=for-the-badge&logo=github&logoColor=67E8F9" alt="View repository"/>
+</a>
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### 📚 Biblioteca Online
@@ -132,39 +157,51 @@ Sistema de gerenciamento de biblioteca desenvolvido em Java para organizar livro
 - Atualização e remoção de registros.
 - Gerenciamento de empréstimos.
 
-[**Ver projeto →**](https://github.com/JoaoVitorPires77)
+<a href="https://github.com/JoaoVitorPires77">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-0B1220?style=for-the-badge&logo=github&logoColor=67E8F9" alt="View repository"/>
+</a>
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🏪 Sistema de Loja
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
 
-Aplicação acadêmica de gerenciamento de produtos, desenvolvida para praticar a construção de sistemas em Java.
+Aplicação acadêmica desenvolvida em Java para praticar o gerenciamento de produtos e a organização de sistemas.
 
-[**Ver projeto →**](https://github.com/JoaoVitorPires77)
+<a href="https://github.com/JoaoVitorPires77">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-0B1220?style=for-the-badge&logo=github&logoColor=67E8F9" alt="View repository"/>
+</a>
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
 ### 🎬 Sistema de Locadora
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
 
-Projeto acadêmico de gerenciamento de locadora, com foco na organização de informações e nas operações do sistema.
+Projeto acadêmico de gerenciamento de locadora, desenvolvido para praticar programação e organização de aplicações.
 
-[**Ver projeto →**](https://github.com/JoaoVitorPires77)
+<a href="https://github.com/JoaoVitorPires77">
+<img src="https://img.shields.io/badge/VIEW_REPOSITORY-0B1220?style=for-the-badge&logo=github&logoColor=67E8F9" alt="View repository"/>
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Em evolução
+
+Estou sempre buscando novos desafios para transformar conhecimentos em aplicações práticas e aprimorar minhas habilidades de desenvolvimento.
 
 </td>
 </tr>
 </table>
 
 </div>
-
-> Os links dos projetos devem ser atualizados para os respectivos repositórios quando estiverem publicados.
 
 ---
 
@@ -177,10 +214,10 @@ Projeto acadêmico de gerenciamento de locadora, com foco na organização de in
 │                                                              │
 │  $ load_objectives                                           │
 │                                                              │
-│  [RUNNING] Improve Java and OOP skills                       │
+│  [RUNNING] Improve Java and Spring Boot skills               │
 │  [RUNNING] Develop Python applications                       │
-│  [RUNNING] Improve SQL and MySQL knowledge                   │
-│  [RUNNING] Build practical software projects                 │
+│  [RUNNING] Practice JavaScript, HTML and CSS                 │
+│  [RUNNING] Improve SQL and database knowledge                │
 │  [TARGET ] First professional opportunity in Technology      │
 │                                                              │
 │  $ echo "LEARN. BUILD. EVOLVE."                              │
@@ -211,8 +248,6 @@ Projeto acadêmico de gerenciamento de locadora, com foco na organização de in
 <img width="100%" src="https://raw.githubusercontent.com/JoaoVitorPires77/JoaoVitorPires77/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
 
 </div>
-
-*A animação da cobrinha é opcional e requer configuração de um workflow do GitHub Actions para gerar o SVG.*
 
 ---
 
