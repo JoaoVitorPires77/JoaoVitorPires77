@@ -50,7 +50,7 @@ Tenho desenvolvido meus conhecimentos em Java, Python, MySQL, HTML e CSS por mei
 Meu objetivo é continuar evoluindo tecnicamente, construir projetos cada vez mais completos e conquistar oportunidades para aplicar meus conhecimentos na prática.
 
 ```text
-┌───[ JARVIS :: USER PROFILE ]─────────────────────────────────┐
+┌─────────────[ USER PROFILE ]─────────────────────────────────┐
 │                                                              │
 │  NAME        João Vitor Gonçalves Pires Leite                │
 │  FIELD       Software Development                            │
