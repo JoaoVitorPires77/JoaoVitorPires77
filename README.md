@@ -55,7 +55,7 @@ Meu objetivo é continuar evoluindo tecnicamente, construir projetos cada vez ma
 │  NAME        João Vitor Gonçalves Pires Leite                │
 │  FIELD       Software Development                            │
 │  EDUCATION   Sistemas de Informação                          │
-│  INSTITUTION UNIFACISA                                        │
+│  INSTITUTION UNIFACISA                                       │
 │  EDUCATION   Análise e Desenvolvimento de Sistemas (ADS)     │
 │  INSTITUTION UNIVERSIDADE FEDERAL DO CARIRI                  │
 │  LOCATION    Paraíba, Brasil                                 │
@@ -181,7 +181,7 @@ Projeto acadêmico de gerenciamento de locadora, com foco na organização de in
 │  [RUNNING] Develop Python applications                       │
 │  [RUNNING] Improve SQL and MySQL knowledge                   │
 │  [RUNNING] Build practical software projects                 │
-│  [TARGET ] First professional opportunity in Technology     │
+│  [TARGET ] First professional opportunity in Technology      │
 │                                                              │
 │  $ echo "LEARN. BUILD. EVOLVE."                              │
 │                                                              │
