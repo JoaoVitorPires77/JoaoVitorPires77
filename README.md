@@ -168,11 +168,11 @@ Sistema de gerenciamento de biblioteca desenvolvido em Java para organizar livro
 
 <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
 
-Sistema desenvolvido em Java para organizar ações de voluntariado, com foco no gerenciamento de voluntários e atividades.
+Projeto acadêmico desenvolvido em Java para organizar ações de voluntariado e gerenciar atividades relacionadas aos participantes.
 
-**Funcionalidades:**
-- Cadastro e gerenciamento de voluntários.
-- Criação e organização de atividades.
+**Objetivos do projeto:**
+- Organização de voluntários.
+- Gerenciamento de atividades.
 - Controle de inscrições e vagas.
 - Organização de pontuações.
 
@@ -251,7 +251,21 @@ Estou sempre buscando novos desafios para transformar conhecimentos em aplicaç�
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/JoaoVitorPires77/JoaoVitorPires77/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/JoaoVitorPires77/JoaoVitorPires77/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/JoaoVitorPires77/JoaoVitorPires77/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake Animation"
+    src="https://raw.githubusercontent.com/JoaoVitorPires77/JoaoVitorPires77/output/github-contribution-grid-snake.svg"
+    width="100%"
+  />
+</picture>
 
 </div>
 
